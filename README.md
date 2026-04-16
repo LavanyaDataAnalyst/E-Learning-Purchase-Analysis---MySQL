@@ -1,6 +1,5 @@
 # 📊E-Learning Purchase Analysis 
 
-# 📊 Social Media Platform Database Design and Analysis
 ## ℹ️ Description:
 * Analyzed learner purchase behavior and course performance on an e-learning platform using MySQL. 
 * Generated insights on spending patterns, course popularity, revenue trends, and customer segmentation.
